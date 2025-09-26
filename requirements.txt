@@ -1,0 +1,33 @@
+# tensorflow==2.19.0
+# pillow==11.0.0
+# PyMuPDF==1.24.11
+# pandas==2.0.3
+# numpy==1.26.4
+# faiss-gpu-cu12==1.11.0
+# langchain==0.1.6
+# pytesseract==0.3.13
+# ultralytics==8.3.170
+# scikit-learn==1.7.1
+# bitsandbytes==0.46.1
+# accelerate==1.9.0
+# transformers==4.46.3
+# python-pptx==0.6.23
+# pdfminer.six==20221105
+# opencv-python==4.9.0.80
+# pdf2image==1.17.0
+# sentencepiece==0.1.99
+# regex==2023.12.25
+# easyocr==1.7.1
+# layoutparser==0.3.4
+# tqdm==4.66.4
+# loguru==0.7.2
+# pyyaml==6.0.1
+# rich==13.7.1
+# albumentations==1.4.3
+
+git+https://github.com/huggingface/transformers.git@v4.51.0
+huggingface_hub
+modelscope
+qwen_vl_utils
+matplotlib
+openai

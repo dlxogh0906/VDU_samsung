@@ -1,0 +1,2 @@
+git+https://github.com/huggingface/transformers.git@v4.51.0
+qwen_vl_utils

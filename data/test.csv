@@ -1,0 +1,13 @@
+﻿ID,path,width,height
+TEST_00,./test/TEST_00.pptx,2666,1500
+TEST_01,./test/TEST_01.png,1280,720
+TEST_02,./test/TEST_02.pdf,2666,1500
+TEST_03,./test/TEST_03.jpg,1280,720
+TEST_04,./test/TEST_04.pptx,1440,810
+TEST_05,./test/TEST_05.pdf,1755,1241
+TEST_06,./test/TEST_06.pdf,1275,1650
+TEST_07,./test/TEST_07.pdf,1275,1650
+TEST_08,./test/TEST_08.pdf,1755,1241
+TEST_10,./test/TEST_10.jpg,1705,2203
+TEST_13,./test/TEST_13.jpg,439,767
+TEST_14,./test/TEST_14.jpg,1000,1440
