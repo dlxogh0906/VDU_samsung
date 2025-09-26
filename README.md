@@ -9,11 +9,26 @@
 ## 📁 프로젝트 구조
 <pre>
 ├── data/ # 데이터 샘플
-├── dots_ocr/ # utils함수(json후처리등등)
-│ ├── utils
-│ ├── __init__.py
-│ 
-├── main_callisto_0910.py/ # EDA 및 실험용 노트북
+├── dots_ocr/ # utils 함수 (JSON 후처리 등)
+│ ├── utils/
+│ │ ├── pycache/
+│ │ ├── init.py
+│ │ ├── consts.py
+│ │ ├── doc_utils.py
+│ │ ├── format_transformer.py
+│ │ ├── image_utils.py
+│ │ ├── layout_utils.py
+│ │ ├── orientation_utils.py
+│ │ ├── output_cleaner.py
+│ │ ├── postprocess.py
+│ │ └── tta_utils.py
+│ └── init.py
+│
+├── model/ # 모델 정의 및 학습 모듈
+│ ├── dots.ocr
+| ├── Callisto-OCR3-2B-Instruct
+│
+├── main_callisto_0910.py # EDA 및 실험용 스크립트
 ├── requirements.txt # 의존성 패키지
 └── README.md # 프로젝트 소개 문서
 </pre>
